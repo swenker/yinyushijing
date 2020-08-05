@@ -1,4 +1,4 @@
-baseURL = "http://books.yinyushijing.cn"
+baseURL = "https://books.yinyushijing.cn"
 languageCode = "zh"
 DefaultContentLanguage = "zh"
 title = "温暖的心，好书分享"
